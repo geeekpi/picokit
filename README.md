@@ -74,7 +74,7 @@ There are some demo codes in this warehouse, which can be opened by `thonny`, co
 ![Project 5 Motion detect by using PIR Motion Sensor](https://raw.githubusercontent.com/geeekpi/picokit/main/images/Project%205%20Motion%20detect%20by%20using%20PIR%20Motion%20Sensor.png)
 
 * Project 6 How to Light up neopixels Ring 
-[Project 6 How to Light up neopixels Ring](https://raw.githubusercontent.com/geeekpi/picokit/main/images/Project%206%20How%20to%20Light%20up%20neopixels%20Ring.png)
+![Project 6 How to Light up neopixels Ring](https://raw.githubusercontent.com/geeekpi/picokit/main/images/Project%206%20How%20to%20Light%20up%20neopixels%20Ring.png)
 
 * Project 7 Build a distance detection machine by using Ultrasonic sensor and LCD1602 display module 
 ![Project 7 Build a distance detection machine by using Ultrasonic sensor and LCD1602 display module](https://raw.githubusercontent.com/geeekpi/picokit/main/images/Project%207%20Build%20a%20distance%20detection%20machine%20by%20using%20Ultrasonic%20sensor%20and%20LCD1602%20display%20module.png)
