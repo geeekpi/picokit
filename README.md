@@ -58,4 +58,23 @@ cd demo_code/
 ```
 There are some demo codes in this warehouse, which can be opened by `thonny`, copied and pasted, and then saved to the `main.py` file in Pico. 
 ## Gallery 
-TO Be Continue...
+* Project 1 Blinking LED
+![Blinking LED](https://raw.githubusercontent.com/geeekpi/picokit/main/images/Project%201%20Blinking%20LED.png)
+
+* Project 2 water flowing LED
+![Project 2 water flowing LED](https://raw.githubusercontent.com/geeekpi/picokit/main/images/Project%202%20water%20flowing%20LED.png)
+
+* Project 3 Control Servo via PWM 
+![Project 3 Control Servo via PWM](https://raw.githubusercontent.com/geeekpi/picokit/main/images/Project%203%20Control%20Servo%20via%20PWM.png)
+
+* Project 4 Display CPU Temperature by Using LCD1602 Display Module
+![Project 4 Display CPU Temperature by Using LCD1602 Display Module](https://raw.githubusercontent.com/geeekpi/picokit/main/images/Project%204%20Display%20CPU%20Temperature%20by%20Using%20LCD1602%20Display%20Module.png)
+
+* Project 5 Motion detect by using PIR Motion Sensor
+![Project 5 Motion detect by using PIR Motion Sensor](https://raw.githubusercontent.com/geeekpi/picokit/main/images/Project%205%20Motion%20detect%20by%20using%20PIR%20Motion%20Sensor.png)
+
+* Project 6 How to Light up neopixels Ring 
+[Project 6 How to Light up neopixels Ring](https://raw.githubusercontent.com/geeekpi/picokit/main/images/Project%206%20How%20to%20Light%20up%20neopixels%20Ring.png)
+
+* Project 7 Build a distance detection machine by using Ultrasonic sensor and LCD1602 display module 
+![Project 7 Build a distance detection machine by using Ultrasonic sensor and LCD1602 display module](https://raw.githubusercontent.com/geeekpi/picokit/main/images/Project%207%20Build%20a%20distance%20detection%20machine%20by%20using%20Ultrasonic%20sensor%20and%20LCD1602%20display%20module.png)
