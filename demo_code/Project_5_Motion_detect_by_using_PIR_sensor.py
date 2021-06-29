@@ -1,4 +1,5 @@
-from machine import Pin, I2C　
+from machine import Pin
+from machine import I2C
 from time import sleep, sleep_ms
 from machine_i2c_lcd import I2cLcd
 
@@ -10,7 +11,9 @@ pir_sensor = Pin(15, Pin.IN)
 
 while True:
     reading = pir_sensor.value()
-    if reading == '1':
+    print(reading)
+ 
+    if reading == 1:
         lcd.putstr("Motion Detect:\n")
         lcd.putstr("Move Detected!")
         sleep(1)
