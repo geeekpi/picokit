@@ -9,7 +9,7 @@ You can build your own circuit on the breadboard kit, and DIY your own micro con
 *  1 x PIR sensor
 *  1 x LED Pack(Red, Blue, Green)
 *  1 x 9g 180 degree servo 
-*  1 x 16 NeoPixel Ring 
+*  1 x 16 RGB WS2812 Light Ring 
 *  1 x Ultrasonic Sensor
 *  1 x Resistor Pack
 *  1 x Jumper wire Pack
@@ -24,7 +24,7 @@ Arduino has also announced their official port of the Arduino Core to RP2040, wh
 *  LED indicator experiment 
 *  Using Ultrasonic sensor and LCD1602 to build distance measuring tool
 *  Using LED with Buttons to build  Morse code learning machine.
-*  Building super cool Neopixel strip lights circuit.
+*  Building super cool RGB ws2812 light Ring.
 *  Build a wearable device
 *  Learn how to control a servo to finish some mechanical control.
 *  Using PIR motion sensor to build home automation assistant.
@@ -73,10 +73,9 @@ There are some demo codes in this warehouse, which can be opened by `thonny`, co
 * Project 5 Motion detect by using PIR Motion Sensor
 ![Project 5 Motion detect by using PIR Motion Sensor](https://raw.githubusercontent.com/geeekpi/picokit/main/images/Project%205%20Motion%20detect%20by%20using%20PIR%20Motion%20Sensor.png)
 
-* Project 6 How to Light up neopixels Ring 
-![Project 6 How to Light up neopixels Ring](https://raw.githubusercontent.com/geeekpi/picokit/main/images/Project%206%20How%20to%20Light%20up%20neopixels%20Ring.png)
+* Project 6 How to Light up ws2812 light Ring 
+![Project 6 How to Light up ws2812 light Ring](https://raw.githubusercontent.com/geeekpi/picokit/main/images/)
 
 * Project 7 Build a distance detection machine by using Ultrasonic sensor and LCD1602 display module 
 ![Project 7 Build a distance detection machine by using Ultrasonic sensor and LCD1602 display module](https://raw.githubusercontent.com/geeekpi/picokit/main/images/Project%207%20Build%20a%20distance%20detection%20machine%20by%20using%20Ultrasonic%20sensor%20and%20LCD1602%20display%20module.png)
 ## Tutorial Video
-Youtube: https://youtu.be/Yy-j3XsrC9w
