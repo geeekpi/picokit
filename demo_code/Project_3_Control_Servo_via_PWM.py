@@ -2,7 +2,7 @@ from machine import Pin, PWM
 from time import sleep
 from math import floor
 
-pwm = PWM(Pin(15))
+pwm = PWM(Pin(0))
 pwm.freq(50)
 duty = 0
 pwm.duty_u16(duty)
